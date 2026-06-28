@@ -1,0 +1,16 @@
+{
+  "name": "SpendTrack — учёт расходов",
+  "short_name": "SpendTrack",
+  "description": "Учёт личных расходов офлайн: диаграмма, лента, бюджеты. Данные — на устройстве.",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0e1016",
+  "theme_color": "#0e1016",
+  "lang": "ru",
+  "icons": [
+    { "src": "icons/favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" },
+    { "src": "icons/favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "maskable" }
+  ]
+}
